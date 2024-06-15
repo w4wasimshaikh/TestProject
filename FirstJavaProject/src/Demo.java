@@ -12,7 +12,7 @@ public class Demo {
 		
 		int i,j;
 		
-		
+		//commit2
 		
 		for (i=s1.length-1;i>=0;i--)
 		{
